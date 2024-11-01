@@ -1,9 +1,9 @@
 Bienvenido a mi Portafolio
 
-Link Curriculum : 
-link Portafolio de Trabajos: 
+Link Curriculum : https://diego-higueras.github.io/Index.html
+link Portafolio de Trabajos: https://diego-higueras.github.io/Portafoleo.html
 
 Fork
 
-https://github.com/matpenag/toFork.git
-https://github.com/pyro-nicolini/comprasDelSuper.git# diego-higueras.github.io
+https://github.com/Diego-Higueras/toFork.git
+https://github.com/pyro-nicolini/comprasDelSuper.git
